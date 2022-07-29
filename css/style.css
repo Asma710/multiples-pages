@@ -95,7 +95,7 @@ p {
   background: #125ccb;
   color: white;
 }
-@media (max-width: 850px) {
+@media (max-width: 900px) {
   h1 {
     font-size: 47px;
   }
