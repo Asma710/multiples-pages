@@ -1,3 +1,21 @@
+@media (max-width: 850px) {
+  h1 {
+    font-size: 47px !important;
+  }
+  .row {
+    text-align: center;
+  }
+  h2 {
+    font-size: 25px !important ;
+  }
+  .link {
+    font-size: large !important ;
+  }
+  .button-launch {
+    padding: 15px 80px !important;
+  }
+}
+
 :root {
   --primary-color: #6c63ff;
   --border-radius: 4px;
@@ -14,7 +32,7 @@ h2 {
 h1 {
   text-align: center;
   font-weight: var(--font-weight);
-  font-size: 96px;
+  font-size: 80px;
 }
 h3 {
   text-align: center;
